@@ -1,0 +1,3 @@
+API restful crud
+esta crea, recupera, actualiza y elimina
+usare node.js, express y mongo db
